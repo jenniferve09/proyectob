@@ -11,6 +11,6 @@ class Vehiculo extends Model
 
     protected $fillable = [
         'description',
-        'categoriia',
+        'categoria',
     ];
 }
